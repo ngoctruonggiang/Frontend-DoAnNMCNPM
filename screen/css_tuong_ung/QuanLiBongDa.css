@@ -338,7 +338,7 @@ img[src^="https://via.placeholder.com"]:after {
     width: 60%;
     height: 300px;
     flex-shrink: 1;
-    background-image: url('/screen/assets/App-layout-template/Wrapper/Content/BannerKetQua/anh_istock.jpg');
+    background-image: url('screen/assets/App-layout-template/Wrapper/Content/BannerKetQua/anh_istock.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
