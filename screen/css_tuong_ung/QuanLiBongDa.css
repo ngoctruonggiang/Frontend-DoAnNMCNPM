@@ -338,7 +338,7 @@ img[src^="https://via.placeholder.com"]:after {
     width: 60%;
     height: 300px;
     flex-shrink: 1;
-    background-image: url('screen/assets/App-layout-template/Wrapper/Content/BannerKetQua/anh_istock.jpg');
+    background-image: url('../assets/App-layout-template/Wrapper/Content/BannerKetQua/anh_istock.jpg'); /* Đường dẫn mới */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -378,14 +378,14 @@ img[src^="https://via.placeholder.com"]:after {
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    background: url('/screen/assets/App-layout-template/Wrapper/Content/BannerKetQua/Flag_of_Vietnam.svg.png') no-repeat center /cover;
+    background: url('../assets/App-layout-template/Wrapper/Content/BannerKetQua/Flag_of_Vietnam.svg.png') no-repeat center / cover; /* Đường dẫn mới */
   }
 
   .ket-qua-banner .co-doi-ben-phai {
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    background: url('/screen/assets/App-layout-template/Wrapper/Content/BannerKetQua/Bandera_de_España.svg.png') no-repeat center /cover;
+    background: url('../assets/App-layout-template/Wrapper/Content/BannerKetQua/Bandera_de_España.svg.png') no-repeat center / cover; /* Đường dẫn mới */
   }
 
   .ket-qua-banner .ti-so {
@@ -626,7 +626,7 @@ img[src^="https://via.placeholder.com"]:after {
     padding: 40px 20px;
     margin-bottom: 30px;
     border-radius: 8px;
-    background-image: url('/screen/assets/Dang-ki-template/soccer-fans-cheering-team-monochrome.jpg');
+    background-image: url('../assets/Dang-ki-template/soccer-fans-cheering-team-monochrome.jpg'); /* Đường dẫn mới */
     background-size: cover;
     background-position: center;
     min-height: 150px;
@@ -1312,7 +1312,7 @@ img[src^="https://via.placeholder.com"]:after {
     grid-template-rows: 7fr 1fr;
     grid-template-columns: 7fr 2fr;
     justify-items: center;
-    background-image: url(/screen/assets/Dang-nhap-template/image/Login\ Background\ Image.png);
+    background-image: url('../assets/Dang-nhap-template/image/Login Background Image.png'); /* Đường dẫn mới */
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
